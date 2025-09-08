@@ -1,0 +1,5 @@
+source	sentence	DDItype
+1	Avoid use of ADCIRCA during the initiation of ritonavir .	Non-Pharmacokinetic interaction
+1	Alcohol Both alcohol and tadalafil, a PDE5 inhibitor, act as mild vasodilators.	Non-Pharmacokinetic interaction
+1	Patients receiving high doses of salicylates concomitantly with LASIX , as in rheumatic disease , may experience salicylate toxicity at lower doses because of competitive renal excretory sites .	Pharmacokinetic interaction
+5	Felbamate A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.	Pharmacokinetic interaction
